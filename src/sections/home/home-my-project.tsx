@@ -13,7 +13,7 @@ const HomeMyProjects: React.FC = () => {
       <div className="portfolio__container container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/assets/kean" alt="kean" />
+            <img src="/assets/kean.png" alt="kean" />
           </div>
           <h3>KEAN ONLINE STORE</h3>
           <small className="text-light">Laravel (PHP) | ReactJs | MySQL</small>
@@ -82,7 +82,7 @@ const HomeMyProjects: React.FC = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/banner-cakrawala.png" alt="cakrawala" />
+            <img src="assets/banner-cakrawala.png" alt="cakrawala" />
           </div>
           <h3>Mobile App Cakrawala</h3>
           <small className="text-light">FLUTTER</small>
