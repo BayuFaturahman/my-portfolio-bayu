@@ -16,7 +16,7 @@ const HomeHeader: React.FC = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src="/public/assets/bayu.png" alt="me" />
+          <img src="/assets/bayu.png" alt="me" />
         </div>
 
         <a href="#contacts" className="scroll__down">
@@ -34,7 +34,7 @@ export default HomeHeader;
 const CTA: React.FC = () => {
   return (
     <div className="cta">
-      <a href="/public/assets/my-cv.pdf" download className="btn">
+      <a href="/assets/my-cv.pdf" download className="btn">
         Download CV
       </a>
       <a href="#contacts" className="btn btn-primary">

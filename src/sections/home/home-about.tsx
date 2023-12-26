@@ -16,7 +16,7 @@ const HomeAbout: React.FC = () => {
       <div className="about__container container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src="/public/assets/fisrt-foto.png" alt="Me" className="img-me-about" />
+            <img src="/assets/fisrt-foto.png" alt="Me" className="img-me-about" />
           </div>
         </div>
 

@@ -13,7 +13,7 @@ const HomeMyProjects: React.FC = () => {
       <div className="portfolio__container container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/assets/kean" alt="kean" />
+            <img src="/assets/kean" alt="kean" />
           </div>
           <h3>KEAN ONLINE STORE</h3>
           <small className="text-light">Laravel (PHP) | ReactJs | MySQL</small>
@@ -25,7 +25,7 @@ const HomeMyProjects: React.FC = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/assets/banner-posyandu.png" alt="posyandu" />
+            <img src="/assets/banner-posyandu.png" alt="posyandu" />
           </div>
           <h3>Mobile App Posyandu</h3>
           <small className="text-light">KOTLIN | JAVA</small>
@@ -38,7 +38,7 @@ const HomeMyProjects: React.FC = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/assets/labella.png" alt="" />
+            <img src="/assets/labella.png" alt="" />
           </div>
           <h3>Labella Online Store</h3>
           <small className="text-light">HTML | CSS | JS | php | MySQL</small>
@@ -50,12 +50,12 @@ const HomeMyProjects: React.FC = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/assets/img4.png" alt="img4" />
+            <img src="/assets/img4.png" alt="img4" />
           </div>
           <h3>My Portfolio(This website)</h3>
           <small className="text-light">ReactJs</small>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Thakshila-Bandara/my-portfolio" target="_blank" rel="noreferrer" className="btn">
+            <a href="https://github.com/BayuFaturahman/my-portfolio-bayu" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
             <a href="/" target="_blank" rel="noreferrer" className="btn btn-primary">
@@ -66,7 +66,7 @@ const HomeMyProjects: React.FC = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/assets/banner-bionmed.png" alt="bionmed" />
+            <img src="/assets/banner-bionmed.png" alt="bionmed" />
           </div>
           <h3>Mobile App Bionmed</h3>
           <small className="text-light">FLUTTER</small>
@@ -82,7 +82,7 @@ const HomeMyProjects: React.FC = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src="/public/banner-cakrawala.png" alt="cakrawala" />
+            <img src="/banner-cakrawala.png" alt="cakrawala" />
           </div>
           <h3>Mobile App Cakrawala</h3>
           <small className="text-light">FLUTTER</small>
