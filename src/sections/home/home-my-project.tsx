@@ -92,6 +92,18 @@ const HomeMyProjects: React.FC = () => {
             </a>
           </div>
         </article>
+        {/* <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src="assets/banner-istora.png" alt="gbk" />
+          </div>
+          <h3>E Ticket Istora Senayan</h3>
+          <small className="text-light">React Js, Laravel</small>
+          <div className="portfolio__item-cta">
+            <a href="https://play.google.com/store/search?q=cakrawala&c=apps" target="_blank" rel="noreferrer" className="btn btn-primary">
+              View Web
+            </a>
+          </div>
+        </article> */}
       </div>
     </section>
   );
